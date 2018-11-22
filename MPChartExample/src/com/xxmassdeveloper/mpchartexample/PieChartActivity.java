@@ -38,6 +38,7 @@ public class PieChartActivity extends DemoBase implements OnSeekBarChangeListene
         OnChartValueSelectedListener {
 
     private PieChart mChart;
+    private PieChart mChart1;
     private SeekBar mSeekBarX, mSeekBarY;
     private TextView tvX, tvY;
 
